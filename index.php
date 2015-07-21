@@ -1,12 +1,14 @@
 <?php
 require("header.php");
 ?>
+<div class="container-fluid">
 
 <div class="row">
     <div class="col-md-12">
         <h2>Android</h2>
         <div class="row">
-            <div class="col-md-2 project img-gray">
+            <div class="col-xs-3 visible-xs"></div>
+            <div class="col-xs-6 col-md-2 project img-gray">
                 <a href="projects/qqdroid/" class="ajax-popup">
                     <img src="projects/qqdroid/miniature.png" class="img-circle img-responsive" />
                     <div class="details">
@@ -14,7 +16,8 @@ require("header.php");
                     </div>
                 </a>
             </div>
-            <div class="col-md-2 project img-gray">
+            <div class="col-xs-3 visible-xs"></div>
+            <div class="col-xs-6 col-md-2 project img-gray">
                 <a href="projects/yaam/">
                     <img src="projects/yaam/miniature.png" class="img-circle img-responsive" />
                     <div class="details">
@@ -22,7 +25,8 @@ require("header.php");
                     </div>
                 </a>
             </div>
-            <div class="col-md-2 project img-gray">
+            <div class="col-xs-3 visible-xs"></div>
+            <div class="col-xs-6 col-md-2 project img-gray">
                 <a href="projects/flirtymob/">
                     <img src="projects/flirtymob/miniature.png" class="img-circle img-responsive" />
                     <div class="details">
@@ -38,7 +42,8 @@ require("header.php");
     <div class="col-md-12">
         <h2>Web</h2>
         <div class="row">
-            <div class="col-md-2 project img-gray">
+            <div class="col-xs-3 visible-xs"></div>
+            <div class="col-xs-6 col-md-2 project img-gray">
                 <a href="projects/mrgm/">
                     <img src="projects/mrgm/miniature.png" class="img-circle img-responsive" />
                     <div class="details">
@@ -47,7 +52,8 @@ require("header.php");
                 </a>
             </div>
 
-            <div class="col-md-2 project img-gray">
+            <div class="col-xs-3 visible-xs"></div>
+            <div class="col-xs-6 col-md-2 project img-gray">
                 <a href="projects/erpaei/">
                     <img src="projects/erpaei/miniature.png" class="img-circle img-responsive" />
                     <div class="details">
@@ -56,7 +62,8 @@ require("header.php");
                 </a>
             </div>
 
-            <div class="col-md-2 project img-gray">
+            <div class="col-xs-3 visible-xs"></div>
+            <div class="col-xs-6 col-md-2 project img-gray">
                 <a href="projects/borderline/">
                     <img src="projects/borderline/miniature.png" class="img-circle img-responsive" />
                     <div class="details">
@@ -65,7 +72,8 @@ require("header.php");
                 </a>
             </div>
 
-            <div class="col-md-2 project img-gray">
+            <div class="col-xs-3 visible-xs"></div>
+            <div class="col-xs-6 col-md-2 project img-gray">
                 <a href="projects/frandroid/">
                     <img src="projects/frandroid/miniature.png" class="img-circle img-responsive" />
                     <div class="details">
@@ -110,7 +118,7 @@ require("header.php");
         </div>
     </div>
 </div>-->
-
+</div>
 <?php
 require("footer.php");
 ?>

@@ -20,7 +20,7 @@
 </head>
 <body>
     <div class="row" id="main_row">
-        <div class="col-md-4 col-lg-3" id="about">
+        <div class="col-xs-12 col-md-4 col-lg-3" id="about">
             <div id="contact_infos">
                 <img src="/css/images/profile.jpg" class="img-circle img-responsive" style="height:70px" />
                 <h2>Simon Cleriot</h2>
@@ -34,10 +34,11 @@
                     | 2015 : IAE Bordeaux<br />
                     &nbsp;&nbsp;&nbsp;Master Entrepreneuriat<br />
                 </p>
+                <p class="visible-xs" id="top"><a href="https://twitter.com/scleriot">Twitter</a> - <a href="https://www.linkedin.com/profile/view?id=89827319">Linkedin</a> - <a href="https://github.com/scleriot">GitHub</a></p>
             </div>
         </div>
-        <div class="col-md-8 col-lg-9" id="projects">
-            <div class="row" id="top">
+        <div class="col-xs-12 col-md-8 col-lg-9" id="projects">
+            <div class="row hidden-xs" id="top">
                 <div class="col-md-12">
                     <a href="https://twitter.com/scleriot">Twitter</a> - <a href="https://www.linkedin.com/profile/view?id=89827319">Linkedin</a> - <a href="https://github.com/scleriot">GitHub</a>
                 </div>
