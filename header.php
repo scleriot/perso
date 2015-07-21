@@ -43,3 +43,5 @@
                     <a href="https://twitter.com/scleriot">Twitter</a> - <a href="https://www.linkedin.com/profile/view?id=89827319">Linkedin</a> - <a href="https://github.com/scleriot">GitHub</a>
                 </div>
             </div>
+
+        <div class="container-fluid">
