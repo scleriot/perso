@@ -36,6 +36,9 @@
                     &nbsp;&nbsp;&nbsp;Master Entrepreneuriat<br />
                 </p>
                 <p class="visible-xs" id="top"><a href="https://twitter.com/scleriot">Twitter</a> - <a href="https://www.linkedin.com/profile/view?id=89827319">Linkedin</a> - <a href="https://github.com/scleriot">GitHub</a></p>
+
+                <br />
+                <a class="hopwork_widget hidden-xs" href="https://www.hopwork.com/profile/simoncleriot" data-id="51f8280f3046f2ae368f55d8" data-picture="false" data-tags="true" data-recos="true" data-height="510" data-width="300" data-style="clear">Voir mon profil freelance</a>
             </div>
         </div>
         <div class="col-xs-12 col-md-8 col-lg-9" id="projects">

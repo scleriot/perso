@@ -35,8 +35,23 @@ $(document).ready(function(){
         $("#about").css({
             height: "80%"
         });
+        $(".img-gray").css({
+            "-webkit-filter": "none",
+            filter: "none"
+        });
     }
     else {
+        $(".hopwork_widget").attr("data-width", $("#contact_infos").width()*0.90 );
+        (function(d,id) {
+        if (d.getElementById(id)) return;
+        var s = d.createElement('script');
+        var c = d.getElementsByTagName('script')[0];
+        s.type = 'text/javascript';
+        s.async = true;
+        s.src = 'https://widgets.hopwork.com/1.0.0/js/sdk.wgt.min.js';
+        c.parentNode.insertBefore(s, c);
+        })(document,'hopwork-sdkjs-wgt');
+
         $(".details").css({top: $(".project").height()})
         $(".project").hover(function(){
             var details = $(this).find(".details");
@@ -48,5 +63,6 @@ $(document).ready(function(){
     }
 });
 </script>
+
 </body>
 </html>
