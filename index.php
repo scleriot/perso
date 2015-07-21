@@ -5,9 +5,9 @@ require("header.php");
 <div class="row">
     <div class="col-md-12">
         <h2>Android</h2>
-        <div class="row">
+        <div class="row" style="margin-left:0;">
             <div class="col-xs-3 visible-xs"></div>
-            <div class="col-xs-6 col-md-2 project img-gray">
+            <div class="col-xs-6 col-md-2 project img-gray" style="margin-left:0;">
                 <a href="projects/qqdroid/" class="ajax-popup">
                     <img src="projects/qqdroid/miniature.png" class="img-responsive" />
                     <div class="details">
@@ -40,9 +40,9 @@ require("header.php");
 <div class="row">
     <div class="col-md-12">
         <h2>Web</h2>
-        <div class="row">
+        <div class="row" style="margin-left:0;">
             <div class="col-xs-3 visible-xs"></div>
-            <div class="col-xs-6 col-md-2 project img-gray">
+            <div class="col-xs-6 col-md-2 project img-gray" style="margin-left:0;">
                 <a href="projects/mrgm/">
                     <img src="projects/mrgm/miniature.png" class="img-responsive" />
                     <div class="details">

@@ -25,6 +25,7 @@
                 <img src="/css/images/profile.jpg" class="img-circle img-responsive" style="height:70px" />
                 <h2>Simon Cleriot</h2>
                 <h4>Freelance, développeur, étudiant</h4>
+                <h4>cleriotsimon@gmail.com</h4>
                 <br />
                 <p>
                     | 2011 : IUT Bordeaux 1<br />
