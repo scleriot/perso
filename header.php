@@ -19,7 +19,7 @@
     <link rel="stylesheet" type="text/css" href="/css/core.css">
 </head>
 <body>
-    <div class="row" id="main_row">
+    <div class="row rowWithFullWidth" id="main_row">
         <div class="col-xs-12 col-md-4 col-lg-3" id="about">
             <div id="contact_infos">
                 <img src="/css/images/profile.jpg" class="img-circle img-responsive" style="height:70px" />
